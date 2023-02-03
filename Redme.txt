@@ -1,0 +1,23 @@
+I have create this Assignment in DJANGO with RESTAPI REST_FRAMEWORK
+
+
+Run the code in proper file diretory 
+python manage.py runserver
+
+
+http://127.0.0.1:8000/api/login
+
+username : final
+password : final
+
+http://127.0.0.1:8000/api/logout
+it will logout
+
+
+
+
+http://127.0.0.1:8000/weather
+its will show you all 30 cites weather data in json format
+i have use the api which was mention in the ASSIGNMENT PDF
+Weather API: https://openweathermap.org/api
+i have also attached the screenshots of running api
